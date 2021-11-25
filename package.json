@@ -1,5 +1,5 @@
 {
-  "name": "ckb-address-to-deposit-address",
+  "name": "eth-address-to-deposit-address",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
