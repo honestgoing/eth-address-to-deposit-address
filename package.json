@@ -1,0 +1,19 @@
+{
+  "name": "ckb-address-to-deposit-address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ckitjs/ckit": "^0.0.2",
+    "@lay2/pw-core": "0.4.0-alpha.12",
+    "ckb-js-toolkit": "^0.10.2",
+    "keccak256": "^1.0.3"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/node": "^16.11.10",
+    "pkg": "^5.4.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
